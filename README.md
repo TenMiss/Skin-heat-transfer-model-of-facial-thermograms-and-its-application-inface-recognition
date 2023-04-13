@@ -1,0 +1,1 @@
+# Skin-heat-transfer-model-of-facial-thermograms-and-its-application-inface-recognition
